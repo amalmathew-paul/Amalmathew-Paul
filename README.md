@@ -13,5 +13,5 @@
 
 📫 Connect with Me:
 - LinkedIn: www.linkedin.com/in/amal-mathew-paul-7755272a7
-- GitHub: [Your GitHub Link]
-- Email: [Your Email]
+- GitHub: https://github.com/amalmathew-paul
+- Email: amalpaul987543@gmail.com
