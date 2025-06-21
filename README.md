@@ -1,16 +1,17 @@
-## Hi there 👋
+ Hi, I'm Amal 👋
 
-<!--
-**amalmathew-paul/Amalmathew-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Data Science  
+💻 Passionate about AI, Machine Learning, Deep Learning, NLP, and Real-Time Applications  
+🚀 Currently building projects to master AI and Data Science concepts
 
-Here are some ideas to get you started:
+📂 Projects I'm Working On:
+- 🏠 House Price Prediction
+- 🧠 Pneumonia Detection using Deep Learning
+- 🤖 AI Chatbot for College Enquiries
+- 🚦 Traffic Light Control System using Computer Vision
+- 🍳 Recipe Recommendation System (Capstone)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me:
+- LinkedIn: www.linkedin.com/in/amal-mathew-paul-7755272a7
+- GitHub: [Your GitHub Link]
+- Email: [Your Email]
